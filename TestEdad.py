@@ -7,7 +7,6 @@ import unittest
 from Edad import edad
 
 class PrU(unittest.TestCase):
-
     def test_edad(self):
         e=edad()
         result=e.E2070()
